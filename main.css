@@ -1,0 +1,28 @@
+table, th, td {
+    
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+    padding: 10px;
+    padding-bottom: 10pt;
+    
+
+  }
+  
+  th, td {
+    /* background-color: #040b4b; */
+    background: linear-gradient(to bottom right, #400463, #098bac);
+    
+}
+
+h2{
+    font-size: 35px;
+    text-transform: none;
+    font-weight: 400;
+    letter-spacing: -1px;
+    color: rgb(229, 239, 243);
+    margin: 5px 0px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+}
